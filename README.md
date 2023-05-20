@@ -28,7 +28,7 @@
 <h2>Stats</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=playerking3&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playerking3&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playerking3&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2>Obrigado por visitar meu perfil! Você é o numero:</h2>

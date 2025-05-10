@@ -6,8 +6,9 @@
 <h2>Minhas informações:</h2>
 <ul>
 	<li>Nome: Murilo</li>
-	<li>Idade: 16 Anos</li>
-	<li>Estudante do ensino médio e curso técnico em desenvolvimento de sistemas no SENAI.</li>
+	<li>Idade: 18 Anos</li>
+	<li>Técnico em desenvolvimento de sistemas no SENAI.</li>
+	<li>Cursando Ciência da Comptação na UNESP</li>
 </ul>
 
 
